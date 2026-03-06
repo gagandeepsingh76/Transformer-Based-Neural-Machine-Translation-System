@@ -126,13 +126,9 @@ translate_text("Hello world")
 ```
 neural-machine-translation
 │
-├── Data
-│   └── en-fr.txt
-│
 ├── nmt_transformer.py
-├── README.md
+└── README.md
 ```
-
 ---
 
 # 🧠 How the System Works
